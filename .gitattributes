@@ -1,0 +1,1 @@
+doc_2_vec.model.docvecs.doctag_syn0.npy filter=lfs diff=lfs merge=lfs -text
