@@ -14,3 +14,7 @@ Data package contains the data we annotate and model we generate, lib package co
 all the source code used to generate our model.
 
 You may use git lfs to pull large file.
+
+To use SentiSW for a publication, please cite the following paper: 
+
+Jin Ding, Hailong Sun, Xu Wang and Xudong Liu. Entity-level sentiment analysis of issue comments. The 3rd International Workshop on Emotion Awareness in Software Engineering (SEmotion), 2018. (accepted).
